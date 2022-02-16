@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mritke/viv/build",
+  "command": "/usr/bin/g++    -g3 -gdwarf-2 -I/home/mritke/viv/include -I/home/mritke/viv/src/main    -std=c++1y -Wall -Wfloat-conversion -o CMakeFiles/example.dir/src/TimedTask.cpp.o -c /home/mritke/viv/src/TimedTask.cpp",
+  "file": "/home/mritke/viv/src/TimedTask.cpp"
+},
+{
+  "directory": "/home/mritke/viv/build",
+  "command": "/usr/bin/g++    -g3 -gdwarf-2 -I/home/mritke/viv/include -I/home/mritke/viv/src/main    -std=c++1y -Wall -Wfloat-conversion -o CMakeFiles/example.dir/src/main.cpp.o -c /home/mritke/viv/src/main.cpp",
+  "file": "/home/mritke/viv/src/main.cpp"
+}
+]

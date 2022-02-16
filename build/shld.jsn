@@ -1,0 +1,203 @@
+{
+	"tasks" : 
+	[
+		{
+			"dayToSkip" : 8,
+			"id" : 255,
+			"isCritical" : false,
+			"name" : "defname",
+			"pin" : 22,
+			"taskOnState" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 9,
+						"m" : 30,
+						"s" : 0
+					},
+					"id" : 1,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 10,
+						"m" : 0,
+						"s" : 0
+					}
+				}
+			],
+			"taskPermamentOff" : false,
+			"workTime" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 9,
+						"m" : 30,
+						"s" : 0
+					},
+					"id" : 1,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 10,
+						"m" : 0,
+						"s" : 0
+					}
+				}
+			]
+		},
+		{
+			"dayToSkip" : 8,
+			"id" : 255,
+			"isCritical" : false,
+			"name" : "defname",
+			"pin" : 24,
+			"taskOnState" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 0,
+						"m" : 0,
+						"s" : 20
+					},
+					"id" : 2,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 17,
+						"m" : 0,
+						"s" : 0
+					}
+				}
+			],
+			"taskPermamentOff" : false,
+			"workTime" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 0,
+						"m" : 0,
+						"s" : 20
+					},
+					"id" : 2,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 17,
+						"m" : 0,
+						"s" : 0
+					}
+				}
+			]
+		},
+		{
+			"dayToSkip" : 8,
+			"id" : 255,
+			"isCritical" : false,
+			"name" : "defname",
+			"pin" : 24,
+			"taskOnState" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 0,
+						"m" : 0,
+						"s" : 18
+					},
+					"id" : 3,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 9,
+						"m" : 55,
+						"s" : 0
+					}
+				}
+			],
+			"taskPermamentOff" : false,
+			"workTime" : 
+			[
+				{
+					"daysActive" : 
+					[
+						true,
+						true,
+						true,
+						true,
+						true,
+						true,
+						true
+					],
+					"duration" : 
+					{
+						" h" : 0,
+						"m" : 0,
+						"s" : 18
+					},
+					"id" : 3,
+					"isActive" : false,
+					"startTime" : 
+					{
+						" h" : 9,
+						"m" : 55,
+						"s" : 0
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1 @@
+/usr/bin/g++   -g3 -gdwarf-2    CMakeFiles/example.dir/src/TimedTask.cpp.o CMakeFiles/example.dir/src/main.cpp.o  -o example -rdynamic -lboost_filesystem -lboost_system -L/usr/local/lib/ -ljsoncpp -lwiringPi 
